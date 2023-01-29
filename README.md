@@ -1,0 +1,2 @@
+# RealmNameListApp
+RealmとRecyclerViewの復習をする
