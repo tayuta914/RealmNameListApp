@@ -13,6 +13,6 @@ class CustomApplication : Application() {
             .allowWritesOnUiThread(true)
             .allowQueriesOnUiThread(true)
             .build()
-            Realm.setDefaultConfiguration(config)
+        Realm.setDefaultConfiguration(config)
     }
 }
