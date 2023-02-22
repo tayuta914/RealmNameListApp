@@ -1,6 +1,6 @@
 package com.example.realmnamelistapp
 
-import android.app.Application
+import  android.app.Application
 import io.realm.Realm
 import io.realm.RealmConfiguration
 
